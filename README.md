@@ -20,23 +20,42 @@
 
 ###
 
-🖥️🔒 Cyber Intelligence  
+🖥️🔒 Cyber Intelligence 
+- Gather and analyze OSINT to track threat actor behavior and TTPs.
+- Produce actionable threat reports leveraging Splunk.
 
 ###
 
 💻🔓 Penetration Testing & Ethical Hacking 
+- Perform full lifecycle pentests on simulated corporate networks (reconnaissance → exploitation → reporting)
+- Use tools like Nmap, Metasploit, John the Ripper, Wireshark and custom Python, PHP scripts.
 
 ###
 
 🧑‍💻🔐Secure Software Development
+- Secure SDLC process.
+- Mitigating OWASP risks.
+- Secure coding (Java, PHP, .NET)
+- HTTP fundamentals & common attack vectors.
 
 ###
 
 🧑‍💻🌐SIEM Technologies
+- Core SIEM layers: data collection, storage, correlation & presentation.  
+- Different SIEM service models and architectures (on‑prem, cloud, hybrid)  
+- Extending SIEM capabilities with threat intelligence, SOAR. 
+- SOC operations: alert triage, incident response workflows & reporting.  
+- Overview of leading SIEM vendors. 
 
 ###
 
 🤖🧑‍💻 Reverse Engineering
+- Introduction to reverse engineering fundamentals.  
+- Compiler basics: how code is generated and optimized.  
+- Code reconstruction (data structures & common code patterns)  
+- Binary file formats & dynamic linkers.  
+- Static analysis: disassemblers & code reconstruction tools.  
+- Dynamic analysis: debugging and runtime inspection.
 
 ###
 
