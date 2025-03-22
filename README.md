@@ -23,13 +23,19 @@
 🖥️🔒 Cyber Intelligence 
 - Gather and analyze OSINT to track threat actor behavior and TTPs.
 - Produce actionable threat reports leveraging Splunk.
+- Social engineering tactics and human-based attack vectors  
+- Deep web insights: underground forums and marketplaces  
+- Phishing and other fraud techniques (spear-phishing, vishing, etc.)  
+- Malware overview: distribution, evasion, and detection methods 
 
 ###
 
 💻🔓 Penetration Testing & Ethical Hacking 
 - Perform full lifecycle pentests on simulated corporate networks (reconnaissance → exploitation → reporting)
 - Use tools like Nmap, Metasploit, John the Ripper, Wireshark and custom Python, PHP scripts.
-
+- Infrastructure audits: reconnaissance, scanning, exploitation & privilege escalation  
+- Audit reporting: documenting findings, risk analysis & remediation recommendations
+  
 ###
 
 🧑‍💻🔐Secure Software Development
@@ -60,10 +66,19 @@
 ###
 
 📲🔐 Smartphone Security
+- Core concepts of mobile platform security and threat landscape. 
+- Wireless network security fundamentals: encryption (WPA2/3), rogue APs & MitM attacks.  
+- Android security architecture: sandboxing, permission model & APK reverse‑engineering.  
+- iOS security mechanisms: secure boot, code signing, sandboxing & jailbreak prevention.
 
 ###
 
 💻🕵️‍♂️ Digital Forensics 
+- Data acquisition techniques for powered-off and live systems.  
+- Windows artifacts: registry, event logs & file metadata analysis.  
+- Network forensics: log analysis & packet inspection.  
+- Email forensics fundamentals & inbox artifact examination.  
+- Log management: collection, parsing & timeline reconstruction.
 
 ###
 
