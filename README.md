@@ -28,6 +28,26 @@
 
 ###
 
+🧑‍💻🔐Secure Software Development
+
+###
+
+🧑‍💻🌐SIEM Technologies
+
+###
+
+🤖🧑‍💻 Reverse Engineering
+
+###
+
+📲🔐 Smartphone Security
+
+###
+
 💻🕵️‍♂️ Digital Forensics 
 
 ###
+
+<h3 align="left">📈 What I Aim to Achieve</h3>
+
+<p align="left">By completing these projects, I'll strengthen my technical skill set (vulnerability assessment, malware analysis, log correlation) while refining my communication skills through structured reporting and stakeholder briefings. This practical, project‑driven approach ensures I graduate ready to deliver immediate impact in any cybersecurity team or consulting environment.</p>
